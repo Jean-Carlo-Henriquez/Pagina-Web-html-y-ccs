@@ -1,0 +1,22 @@
+/* Estilo para todos los encabezados */
+h1, h2, h3, h4, h5, h6 {
+    font-family: Tahoma, sans-serif;
+}
+
+/* Párrafo de inicio */
+#inicio {
+    color: blue;
+    text-align: center;
+}
+
+/* Párrafo de contacto */
+#contacto {
+    color: red;
+    text-align: right;
+    font-size: 25px;
+}
+
+/* Fondo de la página */
+body {
+    background-color: #f0f8ff; /* Puedes cambiar este color por tu favorito */
+}
